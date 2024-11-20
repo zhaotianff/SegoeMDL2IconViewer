@@ -1,8 +1,9 @@
 # SegoeMDL2IconViewer
 Segoe MDL2 Assets icons viewer
 
-# Thanks 
-https://github.com/hassou/SegoeMDL2AssetsFontClass
+# Screenshots
+![preview](screenshots/1.jpg)
+![preview](screenshots/2.jpg)
 
 # License
 [LICENSE](LICENSE)
